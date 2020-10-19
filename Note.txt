@@ -7,3 +7,6 @@
   * regular
   * empty   without closing tag
 Tag can have attributes for additional information
+Except use-case <article> & <section> are same
+In <article> we use <section> to divide related content
+In <section> we use <article> to divide different content
