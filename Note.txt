@@ -7,8 +7,11 @@
   * regular
   * empty   without closing tag
 Tag can have attributes for additional information
+Use only one <h1> tag in html file else SEngine spam it.
 Except use-case <article> & <section> are same
 In <article> we use <section> to divide related content
 In <section> we use <article> to divide different content
 <div> tag is grouping data in html file to make changes
-in easily using css
+  in easily using css
+We style inside html also using style tag in head or
+style attribute in tag.
