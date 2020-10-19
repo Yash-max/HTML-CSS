@@ -15,3 +15,5 @@ In <section> we use <article> to divide different content
   in easily using css
 We style inside html also using style tag in head or
 style attribute in tag.
+ResetSS for resetting the default styling of browser so
+that it looks same on all browsers
