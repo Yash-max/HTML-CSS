@@ -10,3 +10,5 @@ Tag can have attributes for additional information
 Except use-case <article> & <section> are same
 In <article> we use <section> to divide related content
 In <section> we use <article> to divide different content
+<div> tag is grouping data in html file to make changes
+in easily using css
