@@ -1,0 +1,9 @@
+<!DOCTYPE html> for HTML5
+<html> for start and end of document
+2 parts of html doc :
+  * head  contains title and meta data
+  * body  contains main display content
+2 types of tags :
+  * regular
+  * empty   without closing tag
+Tag can have attributes for additional information
