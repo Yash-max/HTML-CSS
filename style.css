@@ -97,3 +97,9 @@ input, select {
   font-family: cursive;
   font-weight: bold;
 }
+#Micro {
+  color: black;
+}
+.ClassUse {
+  font-size: 30px;
+}
