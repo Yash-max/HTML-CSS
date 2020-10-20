@@ -1,0 +1,18 @@
+@font-face {
+  src: url(fonts/Roboto-Black.ttf);
+  font-family: GoogleFontUsed;
+}
+p {
+  font-family: GoogleFontUsed;
+}
+h1 {
+  font-family: "Times New Roman",Arial;
+  text-align: center;
+  text-decoration: line-through;
+  text-indent: 25px;
+  text-transform: capitalize;
+  letter-spacing: 10px
+}
+a {
+  text-decoration: none;
+}

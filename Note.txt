@@ -18,3 +18,8 @@ style attribute in tag.
 ResetSS for resetting the default styling of browser so
 that it looks same on all browsers
 <!--Comments in HTML-->
+<style> or .css same thing(almost)
+<link rel= "stylesheet" href= "#id or link">
+class="sth" == .sth
+id="sid" == #sid
+Multiple class can be used in a single tag but ids
