@@ -23,3 +23,14 @@ that it looks same on all browsers
 class="sth" == .sth
 id="sid" == #sid
 Multiple class can be used in a single tag but ids
+<div> vs <article> vs <section>tags
+
+
+Styling Text using Google Fonts using :
+ @font-face {
+   src: url(fonts/Roboto-Black.ttf);
+   font-family: GoogleFontUsed;
+ }
+
+
+Creating MyPortfolio :
